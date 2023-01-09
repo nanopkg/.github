@@ -2,7 +2,7 @@
 </br>
 <a href="https://iqbalhasan.dev" traget="_blank">
 <center><span style="background:white;" >
-<img title="iqbalhasan.dev" src="image/logo.png" alt="IQBAL HASAN"  style="background:white;"  >
+<!-- <img title="Nanopkg" src="image/logo.png" alt="IQBAL HASAN"  style="background:white;"  > -->
 </span>
 </br>
 </br>
